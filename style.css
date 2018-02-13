@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lavenderblush;
+}
+
+nav {
+  text-align: left;
+  font-family: 'Questrial', sans-serif;
+}
+
+.brush {
+  border: 2px solid #9fa1a5;
+  height: 100px;
+  width: 400px;
+  text-align: right;
+  background-color: white;
+}
+
+.brush p {
+padding: 0;
+margin-bottom: 0;
+font-style: italic;
+font-size: 0.8em;
+}

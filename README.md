@@ -1,6 +1,5 @@
 # big pixel art
 
-Use the starter code and commit each step of the exercise.
 
 - Fork and clone this repo.
 - Checkout a new branch called '**YOUR-NAME**-solution'
